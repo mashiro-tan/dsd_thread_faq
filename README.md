@@ -1,4 +1,4 @@
-# /dsd/ Thread FAQ
+# /data storage devices/ Thread FAQ
 
 ### TL;DR процветающий шапка
 
