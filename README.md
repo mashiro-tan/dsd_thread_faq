@@ -51,7 +51,9 @@ A: Практически все современные ноутбучные д�
 
 Тесты по теме:
 [Диски высокой ёмкости](https://www.hardwareluxx.ru/index.php/artikel/hardware/storage/49812-cmr-protiv-smr-vyvodim-proizvoditelej-hdd-na-chistuyu-vodu.html)
+
 [Тест WD20EZAZ](https://www.ixbt.com/live/data/beglyy-obzor-zhestkogo-diska-wd-blue-wd20ezaz-emkost-2tb.html)
+
 [Сравнение в графиках](https://pikabu.ru/story/test_na_primenenie_cherepichnoy_zapisi_smr_v_zhestkom_diske_8042993) Да-да, на пикабушке.
 
 
